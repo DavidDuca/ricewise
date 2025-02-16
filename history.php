@@ -18,6 +18,7 @@ if (isset($_SESSION['user_id'])) {
     <script src="https://cdn.jsdelivr.net/npm/fullcalendar@5.11.3/main.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/js/all.min.js"></script>
     <link rel="stylesheet" href="history.css">
+    <link rel="icon" href="logo.png">
     <style>
         .selected-date {
             background-color: #D8BFD8 !important;
